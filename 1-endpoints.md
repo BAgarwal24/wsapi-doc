@@ -7,7 +7,7 @@ The main transport protocol of this API is [Websocket](https://en.wikipedia.org/
 The URL of the endpoint is:
 
 ```
-wss://<eZ-Ops host>/ws
+[wss://<eZ-Ops host>/ws](https://<eZ-Ops host>/ws-api/)
 ```
 
 ## REST endpoint
